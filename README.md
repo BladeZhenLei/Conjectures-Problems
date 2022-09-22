@@ -14,7 +14,7 @@ For $n\geq{4}$, we have $p_5$ divides $34276387$, and in general, $p_6$ or great
 <br/>
 (Note: this incredible general case result was obtained by another author which can be found under the same link).
 
-2. (Co-authored) Is $3^{3^{3^{3}}}+4$ prime?
+2. (Co-Authored) Is $3^{3^{3^{3}}}+4$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
