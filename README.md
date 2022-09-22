@@ -1,5 +1,5 @@
 ***
-1. (original) Denote $n$ as the n-th repeated exponential of an integer, i.e., $a_n=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Is there more prime in the form $p_n=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$?
+1. (Original) Denote $n$ as the n-th repeated exponential of an integer, i.e., $a_n=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Is there more prime in the form $p_n=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$?
 <p/>
 <strong> Answer </strong>
 <br/>
@@ -14,13 +14,13 @@ For $n\geq{4}$, we have $p_5$ divides $34276387$, and in general, $p_6$ or great
 <br/>
 (Note: this incredible general case result was obtained by another author which can be found under the same link).
 
-2. (co-authored) Is $3^{3^{3^{3}}}+4$ prime?
+2. (Co-authored) Is $3^{3^{3^{3}}}+4$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
 None.
 
-3. (co-authored) Is $3^{3^{3^{3}}}+65536$ prime?
+3. (Co-authored) Is $3^{3^{3^{3}}}+65536$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
