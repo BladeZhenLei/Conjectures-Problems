@@ -1,6 +1,6 @@
 ***
 ## Number Theory
-1. Denote $n$ as the $n-th$ exponential of an integer, i.e., $a_3=a^{a^{a}}$. Is there more prime in the form $p_n=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$?
+1. Denote $n$ as the n-th exponential of an integer, i.e., $a_3=a^{a^{a}}$. Is there more prime in the form $p_n=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$?
 <p/>
 <strong> Answer </strong>
 <br/>
