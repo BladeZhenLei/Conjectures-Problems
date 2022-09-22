@@ -7,7 +7,7 @@
 No, the frist three are the only primes in such a sequence.
 <br/>
 For $n=4$, we have $p_4$ divides $21219553216129$. 
-(Note: this result was obtained on 2/24/2022 through months of paid cloud computating which should be credited to the author, see 
+(Note: this result was obtained on 2/24/2022 through months of paid cloud computating which should be credited to the original author, see 
 <a href="https://www.zhihu.com/question/512482114/answer/2319816820?utm_id=0"> Original Answer (in Chinese) </a>.
 <br/>
 For $n\geq{4}$, we have $p_5$ divides $34276387$, and in general, $p_6$ or greater divides $4423$.
