@@ -13,10 +13,7 @@ For $n=4$, we have $p_4$ divides $21219553216129$.
 <br/>
 For $n\geq{4}$, we have $p_5$ divides $34276387$, and in general, $p_6$ or greater divides $4423$.
 <br/>
-(Note: this incredible general case result was obtained by another author which can be found under the same link.)
-
-## 
-
+(Note: this incredible general case result was obtained by another author which can be found under the same link).
 
 
 <p/>
