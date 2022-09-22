@@ -20,7 +20,7 @@ $2.$ Is $3^{3^{3^{3}}}+4$ prime?
 <br/>
 None.
 
-$3.$ Is $2*3^{3^{3^{3}}}-1$ prime?
+$3.$ Is $2\cdot3^{3^{3^{3}}}-1$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
