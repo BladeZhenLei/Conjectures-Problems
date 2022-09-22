@@ -1,6 +1,6 @@
 ***
 ## Computational Number Theory
-1. Denote $n$ as the n-th repeated exponential of an integer, i.e., $a_n=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Is there more prime in the form $p_n=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$?
+1. (1/19/2022 by Blade) Denote $n$ as the n-th repeated exponential of an integer, i.e., $a_n=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Is there more prime in the form $p_n=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$?
 <p/>
 <strong> Answer </strong>
 <br/>
