@@ -4,7 +4,7 @@
 <p/>
 <strong> Answer </strong>
 <br/>
-No. 
+No. The frist three terms are the only primes present in such a sequence.
 
 
 <p/>
