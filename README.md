@@ -3,7 +3,7 @@ $1.$ Denote the n-th repeated exponential of an integer as $a_n=a^{a^{a^{.^{.^{.
 <p/>
 <strong> Answer </strong>
 <br/>
-No, the frist three are the only primes in such a sequence.
+No, the frist three are the only primes in such pattern.
 <br/>
 For $n=4$, we have $p_4$ divides $21219553216129$. 
 <br/>
