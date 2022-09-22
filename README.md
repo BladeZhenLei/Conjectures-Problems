@@ -1,6 +1,6 @@
 ***
 ## Computational Number Theory
-1. Denote $n$ as the n-th repeated exponential of an integer, i.e., $a_n=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Is there more prime in the form $p_n=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$?
+1. Denote $n$ as the n-th repeated exponential of an integer, i.e., $a_n=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Is there more prime in the form $p_n=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$? (1/19/2022)
 <p/>
 <strong> Answer </strong>
 <br/>
@@ -8,7 +8,7 @@ No, the frist three are the only primes in such a sequence.
 <br/>
 For $n=4$, we have $p_4$ divides $21219553216129$. 
 <br/>
-(Note: though the question itself was posted by me, this result was obtained on 2/24/2022 through months of paid cloud computating which should be credited to the original author, see 
+(Note: this result was first obtained on 2/24/2022 through months of paid cloud computating which should be credited to the original author, see 
 <a href="https://www.zhihu.com/question/512482114/answer/2319816820?utm_id=0"> Original Answer (in Chinese) </a>.
 <br/>
 For $n\geq{4}$, we have $p_5$ divides $34276387$, and in general, $p_6$ or greater divides $4423$.
