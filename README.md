@@ -20,13 +20,6 @@ $2.$ Is $3^{3^{3^{3}}}+4$ prime?
 <br/>
 None.
 
-$3.$ Is $3^{3^{3^{3}}}+65536$ prime?
-<p/>
-<strong> Answer </strong>
-<br/>
-None.
-
-
 
 <p/>
 <html lang="en">
