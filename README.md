@@ -20,8 +20,13 @@ $2.$ Is $2\cdot3^{3^{3^{3}}}-1$ prime?
 <br/>
 No, it divides $2504371752217$.
 
+$3.$ Is $2^{2^{2^{2^{2}}}}+3$ prime?
+<p/>
+<strong> Answer </strong>
+<br/>
+No, it divides $4269217$.
 
-$3.$ Is $3^{3^{3^{3}}}+4$ prime?
+$4.$ Is $3^{3^{3^{3}}}+4$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
