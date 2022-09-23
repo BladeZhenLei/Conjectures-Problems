@@ -14,13 +14,14 @@ For $n\geq{4}$, we have $p_5$ divides $34276387$, and in general, $p_6$ or great
 <br/>
 (Note: this incredible general case result was obtained by another author which can be found under the same link).
 
-$2.$ Is $3^{3^{3^{3}}}+4$ prime?
+$2.$ Is $2\cdot3^{3^{3^{3}}}-1$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
-None.
+No, it divides 2504371752217.
 
-$3.$ Is $2\cdot3^{3^{3^{3}}}-1$ prime?
+
+$3.$ Is $3^{3^{3^{3}}}+4$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
