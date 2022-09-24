@@ -14,6 +14,12 @@ For $n\geq{4}$, we have $p_5$ divides $34276387$, and in general, $p_6$ or great
 <br/>
 (Note: this incredible general case result was obtained by another author which can be found under the same link).
 
+$2.$ Will a binary-like decimal prime, i.e. 101, 11100101, when convert into binary (base 2) form, will always yield a prime?
+<p/>
+<strong> Answer </strong>
+<br/>
+No, it divides $2504371752217$.
+
 $2.$ Is $2\cdot3^{3^{3^{3}}}-1$ prime?
 <p/>
 <strong> Answer </strong>
