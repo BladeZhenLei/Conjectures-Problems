@@ -14,17 +14,17 @@ For $n\geq{4}$, we have $p_5$ divides $34276387$, and in general, $p_6$ or great
 <br/>
 (Note: this incredible general case result was obtained by another author which can be found under the same link).
 
-$2.$ Is $2\cdot3^{3^{3^{3}}}-1$ prime?
-<p/>
-<strong> Answer </strong>
-<br/>
-No, it divides $2504371752217$.
-
-$3.$ Is $2^{2^{2^{2^{2}}}}+3$ prime?
+$2.$ Is $2^{2^{2^{2^{2}}}}+3$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
 No, it divides $4269217$.
+
+$3.$ Is $2\cdot3^{3^{3^{3}}}-1$ prime?
+<p/>
+<strong> Answer </strong>
+<br/>
+No, it divides $2504371752217$.
 
 $4.$ Is $3^{3^{3^{3}}}+4$ prime?
 <p/>
