@@ -1,5 +1,5 @@
 ***
-$1.$ Denote the n-th repeated exponential of an integer as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Is there more prime in the form $p_n=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$?
+$1.$ Denote the tetration of an integer as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Is there more prime in the form $p_n=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$?
 <p/>
 <strong> Answer </strong>
 <br/>
