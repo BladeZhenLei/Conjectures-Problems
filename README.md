@@ -18,7 +18,7 @@ For $n\geq{4}$, we have $p_5$ divides $34276387$, and in general, $p_6$ or great
 
 **2. (2022.10.9; open)** 
 <br/>
-For any integer $n\geq2$, is there always a prime that can be obtained from combinations of addition and subtraction of all elements in the set $\lbrace{1!, 2!, 3!, …, n!}\rbrace$.
+For any integer $n\geq{1}$, is there always a prime that can be obtained from combinations of addition and subtraction of all elements in the set $\lbrace{1!, 2!, 3!, …, n!}\rbrace$.
 Such as
 $$p_1=1!+0!,$$
 $$p_2=2!+1!,$$
