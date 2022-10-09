@@ -26,7 +26,7 @@ $$p_3=3!+2!-1!,$$
 $$p_4=4!+3!+2!-1!,$$
 $$p_5=5!+4!+3!+2!-1!,$$
 $$\cdot\cdot\cdot\cdot\cdot$$
-currently it is verified to $p_{16}$.
+currently, it is verified to hold up to $p_{16}$.
 <p/>
 <strong> Answer </strong>
 <br/>
