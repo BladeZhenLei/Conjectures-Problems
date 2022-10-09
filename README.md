@@ -20,11 +20,16 @@ For $n\geq{4}$, we have $p_5$ divides $34276387$, and in general, $p_6$ or great
 <br/>
 For any integer $n\geq{1}$, is there always a prime that can be obtained from combinations of addition and subtraction of all elements in the set $\lbrace{1!, 2!, 3!, …, n!}\rbrace$.
 Such as
-$$p_1=1!+0!,$$
+$$p_1=1!+0!$$
+<br/>
 $$p_2=2!+1!,$$
+<br/>
 $$p_3=3!+2!-1!,$$
+<br/>
 $$p_4=4!+3!+2!-1!,$$
+<br/>
 $$p_5=5!+4!+3!+2!-1!,$$
+<br/>
 $$\cdot\cdot\cdot\cdot\cdot$$
 currently, it is verified to hold up to $p_{16}$.
 <p/>
