@@ -31,13 +31,15 @@ this condition is verified to hold from $p_{1}$ to $p_{16}$.
 <br/>
 None.
 
-**3. Is $2\cdot3^{3^{3^{3}}}-1$ prime?**
+**3.**
+Is $2\cdot3^{3^{3^{3}}}-1$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
 No, it divides $2504371752217$.
 
-$4.$ Is $3^{3^{3^{3}}}+4$ prime?
+**4.**
+Is $3^{3^{3^{3}}}+4$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
