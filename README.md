@@ -1,5 +1,7 @@
 ***
-$1.$ Denote the tetration of an integer as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Is there more prime in the form $p_n={^{n}2}+{^{n}3}=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$? (2022.1.19)
+$1.$ (2022.1.19; solved)
+<br/>
+Denote the tetration of an integer as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Is there more prime in the form $p_n={^{n}2}+{^{n}3}=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$? (2022.1.19)
 <p/>
 <strong> Answer </strong>
 <br/>
@@ -14,7 +16,9 @@ For $n\geq{4}$, we have $p_5$ divides $34276387$, and in general, $p_6$ or great
 <br/>
 (Note: this incredible general case result was obtained by another author which can be found under the same link).
 
-$2.$ For any integer $n\geq2$, is there always a prime that can be obtained from combinations of addition and subtraction of all elements in the set $\lbrace{1!, 2!, 3!, …, n!}\rbrace$.
+$2.$ (2022.10.9; open) 
+<br/>
+For any integer $n\geq2$, is there always a prime that can be obtained from combinations of addition and subtraction of all elements in the set $\lbrace{1!, 2!, 3!, …, n!}\rbrace$.
 Such as
 $$2!+1!$$
 $$3!+2!-1!$$
