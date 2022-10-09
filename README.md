@@ -26,7 +26,7 @@ $p_3=3!+2!-1!,$
 $p_4=4!+3!+2!-1!,$
 $p_5=5!+4!+3!+2!-1!,$
 $\cdot\cdot\cdot,$
-this remains true for $p_{1}$ to $p_{20}$.
+this statement reamins true for $p_{1}$ to $p_{20}$.
 <p/>
 <strong> Answer </strong>
 <br/>
