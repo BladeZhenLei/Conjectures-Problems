@@ -1,7 +1,7 @@
 ***
 **1. (2022.1.19; solved)**
 <br/>
-Denote the tetration of an integer as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Is there more prime in the form $p_n={^{n}2}+{^{n}3}=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$? (2022.1.19)
+Denote the tetration of an integer as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Is there more prime in the form $p_n={^{n}2}+{^{n}3}=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$?
 <p/>
 <strong> Answer </strong>
 <br/>
@@ -26,13 +26,12 @@ $p_4=4!+3!+2!-1!,$
 $p_5=5!+4!+3!+2!-1!,$
 $\cdot\cdot\cdot,$
 this condition is verified to hold from $p_{1}$ to $p_{16}$.
-
 <p/>
-<strong> Answer </strong>
+**Answer**
 <br/>
 None.
 
-$3.$ Is $2\cdot3^{3^{3^{3}}}-1$ prime?
+**3. Is $2\cdot3^{3^{3^{3}}}-1$ prime?**
 <p/>
 <strong> Answer </strong>
 <br/>
