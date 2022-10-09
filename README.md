@@ -37,12 +37,6 @@ $${13!-12!+11!+10!+9!-8!-7!+6!+5!-4!-3!-2!+1!}$$
 <br/>
 No, it divides $4269217$.
 
-$3.$ Is $2^{2^{2^{2^{2}}}}+3$ prime?
-<p/>
-<strong> Answer </strong>
-<br/>
-No, it divides $4269217$.
-
 $3.$ Is $2\cdot3^{3^{3^{3}}}-1$ prime?
 <p/>
 <strong> Answer </strong>
