@@ -1,5 +1,5 @@
 ***
-$1.$ Denote the tetration of an integer as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Is there more prime in the form $p_n={^{n}2}+{^{n}3}=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$?
+$1.$ Denote the tetration of an integer as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Is there more prime in the form $p_n={^{n}2}+{^{n}3}=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$? (2022.1.19)
 <p/>
 <strong> Answer </strong>
 <br/>
@@ -14,7 +14,30 @@ For $n\geq{4}$, we have $p_5$ divides $34276387$, and in general, $p_6$ or great
 <br/>
 (Note: this incredible general case result was obtained by another author which can be found under the same link).
 
-$2.$ Is $2^{2^{2^{2^{2}}}}+3$ prime?
+$2.$ Does this always yield a prime? How to prove/disprove it? So far I haven’t found a counter example. 
+For n=>2, n∈Z, there always exist a prime that can be obtained from combinations of addition and subtraction of all elements in the set 
+{1!, 2!, 3!, …, n!}.
+Such as
+$2!+1!$
+$3!+2!-1!$
+$4!+3!+2!-1!$
+$5!+4!+3!+2!-1!$
+$6!-5!+4!+3!+2!-1!$
+$7!-6!-5!+4!+3!+2!-1!$
+$8!-7!+6!-5!-4!-3!+2!-1!$
+$9!+8!-7!+6!-5!-4!-3!+2!-1!$
+$10!-9!+8!-7!+6!-5!+4!-3!+2!-1!$
+$11!+10!+9!-8!-7!+6!+5!-4!-3!+2!-1!$ 
+$12!+11!+10!-9!+8!+7!+6!+5!-4!+3!+2!-1!$ 
+$13!-12!+11!+10!+9!-8!-7!+6!+5!-4!-3!-2!+1!$ 
+$\cdot\cdot\cdot\cdot\cdot$
+
+<p/>
+<strong> Answer </strong>
+<br/>
+No, it divides $4269217$.
+
+$3.$ Is $2^{2^{2^{2^{2}}}}+3$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
