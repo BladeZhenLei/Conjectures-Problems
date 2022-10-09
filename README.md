@@ -27,7 +27,7 @@ $p_5=5!+4!+3!+2!-1!,$
 $\cdot\cdot\cdot,$
 this condition is verified to hold from $p_{1}$ to $p_{16}$.
 <p/>
-**Answer**
+<strong> Answer </strong>
 <br/>
 None.
 
