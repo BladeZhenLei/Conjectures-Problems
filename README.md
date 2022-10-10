@@ -32,28 +32,37 @@ while difficult to prove, this statement reamins true for $p_{1}$ to $p_{20}$.
 <br/>
 None.
 
-**3.**
+
+**3. (2022.10.10) Generalization of Q2**
+For all ${n}\geq{k}\geq{1}$, can we always find a prime of form ${n!}\pm{k!}\pm{1!}$?
+<p/>
+<strong> Answer </strong>
+<br/>
+None.
+
+
+**4.**
 Is $2\cdot3^{3^{3^{3}}}-1$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
 No, it divides $2504371752217$.
 
-**4.**
+**5.**
 Is $3^{3^{3^{3}}}+4$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
 None.
 
-**5.** 
+**6.** 
 Is $3^{3^{2^{2^{2}}}}-2^{2^{2^{2^{2}}}}$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
 None.
 
-**6.** 
+**7.** 
 Is $3^{2^{2^{2^{2}}}}+2^{2^{2^{2^{2}}}}$ prime?
 <p/>
 <strong> Answer </strong>
