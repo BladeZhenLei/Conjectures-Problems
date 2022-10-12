@@ -25,7 +25,8 @@ $p_2=2!+1!,$
 $p_3=3!+2!-1!,$
 $p_4=4!+3!+2!-1!,$
 $p_5=5!+4!+3!+2!-1!,$
-$\cdot\cdot\cdot.$
+$\cdot\cdot\cdot,$
+$p_n=n!+{n-1}!\pm{n-2}!\pm{n-3}!,\pm\cdot\cdot\cdot,\pm{1},$
 <p/>
 <strong> Answer </strong>
 <br/>
