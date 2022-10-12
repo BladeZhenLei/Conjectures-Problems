@@ -23,7 +23,7 @@ Such as
 $$p_1={1!}\pm{0!},$$
 $$p_2={2!}\pm{1!},$$
 $$p_3={3!}\pm{2!}\pm{1!},$$
-$$\vdot\vdot\vdot$$
+$$\vdots$$
 $$p_n=n!\pm(n-1)!\pm(n-2)!\pm(n-3)!\pm\cdot\cdot\cdot\pm{1!}.$$
 <p/>
 <strong> Answer </strong>
