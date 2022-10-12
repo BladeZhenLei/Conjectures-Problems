@@ -43,7 +43,7 @@ The first counter-example appeared at $n=63$.
 
 **4. (2022.10.10; open) Generalization of 2**
 <br/>
-For all ${n}\geq{k}\geq{1}$, can we always find a prime of form ${a!}\pm{b!}\pm{c!}\pm{1}$?
+For all ${a}\geq{b}\geq{c}\geq{1}$, can we always find a prime of form ${a!}\pm{b!}\pm{c!}\pm{1}$?
 <p/>
 <strong> Answer </strong>
 <br/>
