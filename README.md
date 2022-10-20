@@ -76,8 +76,8 @@ Is $3^{2^{2^{2^{2}}}}+2^{2^{2^{2^{2}}}}$ prime?
 <br/>
 None.
 
-**8**
-A graph $G$ has degree sequence of all of elements as primes, i.e., $\lbrace{2,\cdots,2,3,\cdots,3,5,\cdots,5,\cdots}\rbrace$, where $\sum{v}=2|E(G)|$
+**8.**
+A graph $G$ has degree sequence of all of elements as primes, i.e., $\lbrace{2,\cdots,2,3,\cdots,3,5,\cdots,5,\cdots}\rbrace$, where $\sum{v_i}=2|E(G)|$
 
 
 
