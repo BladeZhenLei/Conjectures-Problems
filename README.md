@@ -28,7 +28,7 @@ $p_n=n!\pm(n-1)!\pm(n-2)!\pm(n-3)!\pm\cdot\cdot\cdot\pm{1!}.$
 <p/>
 <strong> Answer </strong>
 <br/>
-This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for all positive integers considering the prime density.
+This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for all positive integers, considering the prime density.
 
 
 **3. (2022.10.10; solved) Generalization of 2**
