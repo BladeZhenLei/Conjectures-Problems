@@ -74,10 +74,7 @@ Is $3^{2^{2^{2^{2}}}}+2^{2^{2^{2^{2}}}}$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
-None.
-
-**8.**
-A graph $G$ has degree sequence of all of elements as primes $\geq3$, i.e., $\lbrace{3,\cdots,3,5,\cdots,5,7,\cdots,7,\cdots}\rbrace$, where $\sum{deg(v_i)}=2|E(G)|$, then by handshaking lemma there are even numbers of odd primes. Since the number of verticies $v(G)$ will at least have the largest element $max|v_i|+1$, 
+None. 
 
 
 
