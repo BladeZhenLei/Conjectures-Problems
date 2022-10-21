@@ -28,7 +28,7 @@ $p_n=n!\pm(n-1)!\pm(n-2)!\pm(n-3)!\pm\cdot\cdot\cdot\pm{1!}.$
 <p/>
 <strong> Answer </strong>
 <br/>
-This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for all positive integers, considering the prime density around $n!$ with such combination shoud be around $\frac{2^{n-1}}{nlog(n)}$.
+This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for all positive integers. Considering the prime density around $n!$ with such combination shoud be around $\frac{2^{n-1}}{nlog(n)}$.
 
 
 **3. (2022.10.10; solved) Generalization of 2**
