@@ -37,7 +37,7 @@ For all ${n}\geq{k}\geq{1}$, can we always find a prime of form ${n!}\pm{k!}\pm{
 <p/>
 <strong> Answer </strong>
 <br/>
-No. The counter examples appeared at $n=63$, $n=161$, and $n=382$ for $n\leq694$.
+No. The counter examples appeared at $n=63$, $n=161$, and $n=382$ for $n\leq736$.
 
 **4. (2022.10.12; open) Generalization of 2**
 <br/>
