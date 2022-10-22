@@ -47,7 +47,6 @@ For all ${a}\geq{b}\geq{c}\geq{1}$, can we always find a prime of form ${a!}\pm{
 <br/>
 None.
 
-
 **5. (solved)**
 <br>
 Is $2\cdot3^{3^{3^{3}}}-1$ prime?
@@ -79,7 +78,6 @@ Is $3^{2^{2^{2^{2}}}}+2^{2^{2^{2^{2}}}}$ prime?
 <strong> Answer </strong>
 <br/>
 None. 
-
 
 
 <p/>
