@@ -48,28 +48,32 @@ For all ${a}\geq{b}\geq{c}\geq{1}$, can we always find a prime of form ${a!}\pm{
 None.
 
 
-**4.**
+**5. (solved)**
+<br>
 Is $2\cdot3^{3^{3^{3}}}-1$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
 No, it divides $2504371752217$.
 
-**5.**
+**6. (open)**
+<br/>
 Is $3^{3^{3^{3}}}+4$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
 None.
 
-**6.** 
+**7. (open)**
+<br/>
 Is $3^{3^{2^{2^{2}}}}-2^{2^{2^{2^{2}}}}$ prime?
 <p/>
 <strong> Answer </strong>
 <br/>
 None.
 
-**7.** 
+**8. (open)**
+<br/>
 Is $3^{2^{2^{2^{2}}}}+2^{2^{2^{2^{2}}}}$ prime?
 <p/>
 <strong> Answer </strong>
