@@ -36,12 +36,12 @@ This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for a
 For all integers ${n}\geq{k}\geq{1}$: 
 <br>
 1. Can we always find a prime of form ${n!}\pm{k!}\pm{1!}$? 
-2. If not, could there be finitely many counter examples? 
+2. If not, could there be finitely many exceptions? 
 <p/>
 <strong> Answer </strong>
 <br/>
 1. No. <br> 
-2. Maybe. The counter examples only appeared at $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq940$.
+2. Maybe. The counter examples only appeared at $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq985$.
 
 **4. Generalization of 2 (2022.10.12; open)**
 <br/>
