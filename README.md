@@ -47,9 +47,9 @@ For all integers ${n}\geq{k}\geq{1}$:
 <br/>
 For all ${a}\geq{b}\geq{c}\geq{1}$, can we always find a prime of form ${a!}\pm{b!}\pm{c!}\pm{1}$?
 <p/>
-<strong> Answer </strong>
-<br/>
-None.
+
+**5. Collatz Sequence Sum (2022.10.25; open)**
+If we randomly assign $\pm$ to all elements of a sorted Collatz Sequence, i.e. $C(5)=\lbrace{1, 2, 4, 5, 8, 16}\rbrace$, we have $-1+2-4-5-8+16=0$, or, $C(6)=\lbrace{1, 2, 3, 4, 5, 6, 8, 10, 16}\rbrace$ and $1-2+3+4-5+6-8-10+16=1$, it thus always will yield a 0 or 1?  
 
 **5. (solved)**
 <br>
@@ -63,28 +63,17 @@ No, it divides $2504371752217$.
 <br/>
 Is $3^{3^{3^{3}}}+4$ prime?
 <p/>
-<strong> Answer </strong>
-<br/>
-None.
 
 **7. (open)**
 <br/>
 Is $3^{3^{2^{2^{2}}}}-2^{2^{2^{2^{2}}}}$ prime?
 <p/>
-<strong> Answer </strong>
-<br/>
-None.
 
 **8. (open)**
 <br/>
 Is $3^{2^{2^{2^{2}}}}+2^{2^{2^{2^{2}}}}$ prime?
 <p/>
-<strong> Answer </strong>
-<br/>
-None. 
 
-**Not Sure**
-If we randomly assign $\pm$ to all elements of a sorted Collatz Sequence, i.e. $C(5)=\lbrace{1, 2, 4, 5, 8, 16}\rbrace$, we have $-1+2-4-5-8+16=0$, or, $C(6)=\lbrace{1, 2, 3, 4, 5, 6, 8, 10, 16}\rbrace$ and $1-2+3+4-5+6-8-10+16=1$, it thus always will yield a 0 or 1?  
 
 <p/>
 <html lang="en">
