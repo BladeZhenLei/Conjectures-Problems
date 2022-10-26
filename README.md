@@ -37,7 +37,7 @@ For all integers ${n}\geq{k}\geq{1}$:
 <br>
 1. Can we always find a prime of form ${n!}\pm{k!}\pm{1!}$? 
 2. If not, could there be finitely many exceptions? 
-<p/>
+<br/>
 <strong> Answer </strong>
 <br/>
 1. No. <br> 
