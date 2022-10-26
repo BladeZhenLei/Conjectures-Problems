@@ -59,7 +59,7 @@ If we randomly assign $\pm$ to all elements of a sorted Collatz Sequence, i.e. $
 None.
 
 ### Little Problems
-**5. (solved)**
+**1. (solved)**
 <br>
 Is $2\cdot3^{3^{3^{3}}}-1$ prime?
 <p/>
@@ -67,17 +67,17 @@ Is $2\cdot3^{3^{3^{3}}}-1$ prime?
 <br/>
 No, it divides $2504371752217$.
 
-**6. (open)**
+**2. (open)**
 <br/>
 Is $3^{3^{3^{3}}}+4$ prime?
 <p/>
 
-**7. (open)**
+**3. (open)**
 <br/>
 Is $3^{3^{2^{2^{2}}}}-2^{2^{2^{2^{2}}}}$ prime?
 <p/>
 
-**8. (open)**
+**4. (open)**
 <br/>
 Is $3^{2^{2^{2^{2}}}}+2^{2^{2^{2^{2}}}}$ prime?
 <p/>
