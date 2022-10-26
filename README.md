@@ -83,6 +83,8 @@ Is $3^{2^{2^{2^{2}}}}+2^{2^{2^{2^{2}}}}$ prime?
 <br/>
 None. 
 
+**Not Sure**
+If we randomly assign $\pm$ to all elements of a sorted Collatz Sequence, i.e. $C(5)=\lbrace{1, 2, 4, 5, 8, 16}\rbrace$, we have $-1+2-4-5-8+16=0$, or, $C(6)=\lbrace{1, 2, 3, 4, 5, 6, 8, 10, 16}\rbrace$ and $1-2+3+4-5+6-8-10+16=1$, it thus always will yield a 0 or 1?  
 
 <p/>
 <html lang="en">
