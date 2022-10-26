@@ -1,4 +1,5 @@
 ***
+### Main Problems
 **1. Prime Tower Sum (2022.1.19; solved)**
 <br/>
 Denote the tetration of an integer as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Is there more prime in the form $p_n={^{n}2}+{^{n}3}=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$?
@@ -57,7 +58,7 @@ If we randomly assign $\pm$ to all elements of a sorted Collatz Sequence, i.e. $
 <br/>
 None.
 
-
+### Little Problems
 **5. (solved)**
 <br>
 Is $2\cdot3^{3^{3^{3}}}-1$ prime?
