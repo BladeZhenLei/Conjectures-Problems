@@ -42,7 +42,7 @@ The answer to the first question is 'no', and the second is 'maybe', these count
 **4. Generalization of 2 (2022.10.12; open)**
 <br/>
 For all ${a}\geq{b}\geq{c}\geq{1}$, can we always find a prime of form ${a!}\pm{b!}\pm{c!}\pm{1}$?
-<p/>
+<br/>
 <strong> Comment </strong>
 <br/>
 None.
@@ -58,7 +58,7 @@ None.
 **1. (solved)**
 <br>
 Is $2\cdot3^{3^{3^{3}}}-1$ prime?
-<p/>
+<br/>
 <strong> Answer </strong>
 <br/>
 No, it divides $2504371752217$.
@@ -66,17 +66,26 @@ No, it divides $2504371752217$.
 **2. (open)**
 <br/>
 Is $3^{3^{3^{3}}}+4$ prime?
-<p/>
+<br/>
+<strong> Comment </strong>
+<br/>
+None.
 
 **3. (open)**
 <br/>
 Is $3^{3^{2^{2^{2}}}}-2^{2^{2^{2^{2}}}}$ prime?
-<p/>
+<br/>
+<strong> Comment </strong>
+<br/>
+None.
 
 **4. (open)**
 <br/>
 Is $3^{2^{2^{2^{2}}}}+2^{2^{2^{2^{2}}}}$ prime?
-<p/>
+<br/>
+<strong> Comment </strong>
+<br/>
+None.
 
 
 <p/>
