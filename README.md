@@ -33,15 +33,12 @@ This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for a
 
 **3. Generalization of 2 (2022.10.10; partially solved)**
 <br/>
-For all integers ${n}\geq{k}\geq{1}$: 
-<br>
-1. Can we always find a prime of form ${n!}\pm{k!}\pm{1!}$? 
-2. If not, could there be finitely many exceptions? 
+For all integers ${n}\geq{k}\geq{1}$, can we always find a prime of form ${n!}\pm{k!}\pm{1!}$? If not, could there be finitely many exceptions? 
 <br/>
 <strong> Answer </strong>
 <br/>
-1. No. <br> 
-2. Maybe. The counter examples only appeared at $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq985$.
+1) No. <br> 
+2) Maybe. The counter examples only appeared at $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq985$.
 
 **4. Generalization of 2 (2022.10.12; open)**
 <br/>
