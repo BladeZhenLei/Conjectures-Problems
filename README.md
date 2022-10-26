@@ -30,7 +30,7 @@ $p_n=n!\pm(n-1)!\pm(n-2)!\pm(n-3)!\pm\cdot\cdot\cdot\pm{1!}.$
 <br/>
 This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for all positive integers. Considering the prime density around $n!$ with such combination shoud be $\frac{2^{n-1}}{nlog(n)}>1$.
 
-**3. $Generalization of 2$ (2022.10.10; partially solved)**
+**3. Generalization of 2 (2022.10.10; partially solved)**
 <br/>
 For all integers ${n}\geq{k}\geq{1}$: 
 <br>
@@ -46,6 +46,9 @@ For all integers ${n}\geq{k}\geq{1}$:
 <br/>
 For all ${a}\geq{b}\geq{c}\geq{1}$, can we always find a prime of form ${a!}\pm{b!}\pm{c!}\pm{1}$?
 <p/>
+<strong> Answer </strong>
+<br/>
+None.
 
 **5. Collatz Sequence Sum (2022.10.25; open)**
 <br/>
