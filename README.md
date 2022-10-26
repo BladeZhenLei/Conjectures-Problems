@@ -3,7 +3,7 @@
 **1. Prime Tower Sum (2022.1.19; solved)**
 <br/>
 Denote the tetration of an integer as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Is there more prime in the form $p_n={^{n}2}+{^{n}3}=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$, other than $p_1$, $p_2$, and $p_3$?
-<p/>
+<br/>
 <strong> Answer </strong>
 <br/>
 No, the frist three are the only primes in such pattern.
@@ -26,7 +26,7 @@ $p_2={2!}\pm{1!},$
 $p_3={3!}\pm{2!}\pm{1!},$
 $\cdots,$
 $p_n=n!\pm(n-1)!\pm(n-2)!\pm(n-3)!\pm\cdot\cdot\cdot\pm{1!}.$
-<p/>
+<br/>
 <strong> Comment </strong>
 <br/>
 This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for all positive integers. Considering the prime density around $n!$ with such combination shoud be $\frac{2^{n-1}}{nlog(n)}>1$.
