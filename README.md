@@ -49,7 +49,7 @@ None.
 
 **5. Collatz Sequence Sum (2022.10.25; open)**
 <br/>
-If we randomly assign $\pm$ to all elements of a sorted Collatz Sequence, i.e.
+If we randomly assign $\pm$ to all elements of a Collatz Sequence, i.e.
 $C(1)=1$,
 $C(2)=2-1$,
 $C(3)=3-10+5+16-8-4-2+1$,
