@@ -13,7 +13,7 @@ For $n=4$, we have $21219553216129$ divides $p_4$.
 (Note: this result was first obtained on 2/24/2022 through one month of paid cloud computing which should be credited to the original author, see 
 <a href="https://www.zhihu.com/question/512482114/answer/2319816820?utm_id=0"> Original Answer (in Chinese) </a>.
 <br/>
-For $n\geq{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides $p_6$ or greater.
+For $n\geq{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides $p_6$ or greater. In fact, there might be only finitely man divisors for all $p_n$. 
 <br/>
 (Note: this incredible general case result was obtained by another author which can be found under the same link).
 
