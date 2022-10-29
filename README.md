@@ -49,7 +49,14 @@ None.
 
 **5. Collatz Sequence Sum (2022.10.25; open)**
 <br/>
-If we randomly assign $\pm$ to all elements of a sorted Collatz Sequence, i.e. $C(5)=\lbrace{1, 2, 4, 5, 8, 16}\rbrace$, we have $-1+2-4-5-8+16=0$, or, $C(6)=\lbrace{1, 2, 3, 4, 5, 6, 8, 10, 16}\rbrace$ and $1-2+3+4-5+6-8-10+16=1$, it thus always will yield a 0 or 1?  
+If we randomly assign $\pm$ to all elements of a sorted Collatz Sequence, i.e.
+$C(1)=\lbrace{1}\rbrace$,
+$C(2)=\lbrace{2-1}\rbrace$,
+$C(3)=\lbrace{3-10+5+16-8-4-2+1}\rbrace$
+$C(4)=\lbrace{4-2-1}\rbrace$
+$C(5)=\lbrace{5-16+8+4-2+1}\rbrace$
+$C(6)=\lbrace{6+3-10-5+16-8-4+2+1}\rbrace$
+will it always yield a 0 or 1?  
 <strong> Comment </strong>
 <br/>
 None.
