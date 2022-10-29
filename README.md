@@ -8,12 +8,12 @@ Denote the tetration of an integer as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where $a$ 
 <br/>
 No, the frist three are the only primes in such pattern.
 <br/>
-For $n=4$, we have $p_4$ divides $21219553216129$. 
+For $n=4$, we have $21219553216129$ divides $p_4$. 
 <br/>
 (Note: this result was first obtained on 2/24/2022 through one month of paid cloud computing which should be credited to the original author, see 
 <a href="https://www.zhihu.com/question/512482114/answer/2319816820?utm_id=0"> Original Answer (in Chinese) </a>.
 <br/>
-For $n\geq{4}$, we have $p_5$ divides $34276387$, and in general, $p_6$ or greater divides $4423$.
+For $n\geq{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides $p_6$ or greater.
 <br/>
 (Note: this incredible general case result was obtained by another author which can be found under the same link).
 
