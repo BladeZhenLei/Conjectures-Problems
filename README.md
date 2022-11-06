@@ -56,7 +56,7 @@ $C(3)=3-10+5+16-8-4-2+1$,
 $C(4)=4-2-1$,
 $C(5)=5-16+8+4-2+1$,
 $C(6)=6+3-10-5+16-8-4+2+1$,
-will it always converge a 0 or 1?  
+will at least one combination always converge a 0 or 1?  
 <strong> Comment </strong>
 <br/>
 None.
