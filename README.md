@@ -29,7 +29,7 @@ None.
 
 
 
-**2. $n$ Factorial Sum (2022.10.9; open)** 
+**2. $N$ Factorial Sum (2022.10.9; open)** 
 <br/>
 For any integer $n\geq{1}$, is there always a prime that can be obtained from combinations of addition and subtraction of all elements in the set $\lbrace{1!, 2!, 3!, …, n!}\rbrace$? 
 Such as
@@ -43,7 +43,7 @@ $p_n=n!\pm(n-1)!\pm(n-2)!\pm(n-3)!\pm\cdot\cdot\cdot\pm{1!}.$
 <br/>
 This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for all positive integers. Considering the prime density around $n!$ with such combination shoud be $\frac{2^{n-1}}{nlog(n)}>1$.
 
-**[Generalized] $2$ Factorial Sum (2022.10.10; partially solved)**
+**[Generalized] Two Factorial Sum (2022.10.10; partially solved)**
 <br/>
 For all integers ${n}\geq{k}\geq{1}$, can we always find a prime of form ${n!}\pm{k!}\pm{1!}$? If not, could there be finitely many exceptions? 
 <br/>
@@ -51,7 +51,7 @@ For all integers ${n}\geq{k}\geq{1}$, can we always find a prime of form ${n!}\p
 <br/>
 The answer to the first question is 'no', and the second is 'maybe', these counter examples only appeared at $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq1010$.
 
-**[Generalized] $3$ Factorial Sum (2022.10.12; open)**
+**[Generalized] Three Factorial Sum (2022.10.12; open)**
 <br/>
 For all ${a}\geq{b}\geq{c}\geq{1}$, can we always find a prime of form ${a!}\pm{b!}\pm{c!}\pm{1}$?
 <br/>
