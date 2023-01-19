@@ -79,37 +79,31 @@ None.
 
 
 ### Computation Problems
-**1. (solved)**
-<br>
-Is $2\cdot3^{3^{3^{3}}}-1$ prime?
+**1.** Is $2\cdot3^{3^{3^{3}}}-1$ prime?
 <br/>
 <strong> Answer </strong>
 <br/>
 No, it has the smallest divisor $2504371752217$.
 
-**2. (open)**
-<br/>
-Is $3^{3^{3^{3}}}+4$ prime?
+**2.** Is $3^{3^{3^{3}}}+4$ prime?
 <br/>
 <strong> Comment </strong>
 <br/>
 None.
 
-**3. (open)**
-<br/>
-Is $3^{3^{2^{2^{2}}}}-2^{2^{2^{2^{2}}}}$ prime?
+**3.** Is $3^{3^{2^{2^{2}}}}-2^{2^{2^{2^{2}}}}$ prime?
 <br/>
 <strong> Comment </strong>
 <br/>
 None.
 
-**4. (open)**
-<br/>
-Is $3^{2^{2^{2^{2}}}}+2^{2^{2^{2^{2}}}}$ prime?
+**4.** Is $3^{2^{2^{2^{2}}}}+2^{2^{2^{2^{2}}}}$ prime?
 <br/>
 <strong> Comment </strong>
 <br/>
 None.
+
+
 
 
 <p/>
