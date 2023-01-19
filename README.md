@@ -18,7 +18,7 @@ For $n\geq{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides
 <br/>
 (Note: this incredible general case result was obtained by another author which can be found under the same link).
 
-**1. [Generalized] Mixed Sum (2023.1.19; open)**
+**[1. Generalized] Mixed Sum (2023.1.19; open)**
 <br/>
 How many primes are there in the form $p={^{a}2}+{^{b}3}$, finitely or infinitely many?
 <br/>
@@ -48,7 +48,7 @@ For all integers ${n}\geq{k}\geq{1}$, can we always find a prime of form ${n!}\p
 <br/>
 The answer to the first question is 'no', and the second is 'maybe', these counter examples only appeared at $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq1010$.
 
-**4. Generalization of 2 (2022.10.12; open)**
+**4. [2. Generalized] (2022.10.12; open)**
 <br/>
 For all ${a}\geq{b}\geq{c}\geq{1}$, can we always find a prime of form ${a!}\pm{b!}\pm{c!}\pm{1}$?
 <br/>
