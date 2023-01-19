@@ -49,7 +49,7 @@ For all integers ${n}\geq{k}\geq{1}$, can we always find a prime of form ${n!}\p
 <br/>
 <strong> Comment </strong>
 <br/>
-The answer to the first question is 'no', and the second is 'maybe', these counter examples only appeared at $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq1010$.
+The answer to the first question is 'no', and the second is 'maybe', these counter examples only appeared at $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq1200$.
 
 **[Generalized] Three Factorial Sum (2022.10.12; open)**
 <br/>
