@@ -18,7 +18,7 @@ For $n\geq{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides
 <br/>
 (Note: this incredible general case result was obtained by another author which can be found under the same link).
 
-**[1. Generalized] Mixed Sum (2023.1.19; open)**
+**[Generalized] Mixed Sum (2023.1.19; open)**
 <br/>
 How many primes are there in the form $p={^{a}2}+{^{b}3}$, finitely or infinitely many?
 <br/>
@@ -40,6 +40,14 @@ $p_n=n!\pm(n-1)!\pm(n-2)!\pm(n-3)!\pm\cdot\cdot\cdot\pm{1!}.$
 <br/>
 This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for all positive integers. Considering the prime density around $n!$ with such combination shoud be $\frac{2^{n-1}}{nlog(n)}>1$.
 
+**[Generalized] (2022.10.12; open)**
+<br/>
+For all ${a}\geq{b}\geq{c}\geq{1}$, can we always find a prime of form ${a!}\pm{b!}\pm{c!}\pm{1}$?
+<br/>
+<strong> Comment </strong>
+<br/>
+None.
+
 **3. Generalization of 2 (2022.10.10; partially solved)**
 <br/>
 For all integers ${n}\geq{k}\geq{1}$, can we always find a prime of form ${n!}\pm{k!}\pm{1!}$? If not, could there be finitely many exceptions? 
@@ -48,15 +56,8 @@ For all integers ${n}\geq{k}\geq{1}$, can we always find a prime of form ${n!}\p
 <br/>
 The answer to the first question is 'no', and the second is 'maybe', these counter examples only appeared at $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq1010$.
 
-**4. [2. Generalized] (2022.10.12; open)**
-<br/>
-For all ${a}\geq{b}\geq{c}\geq{1}$, can we always find a prime of form ${a!}\pm{b!}\pm{c!}\pm{1}$?
-<br/>
-<strong> Comment </strong>
-<br/>
-None.
 
-**5. Collatz Sequence Sum (2022.10.25; open)**
+**4. Collatz Sequence Sum (2022.10.25; open)**
 <br/>
 If we randomly assign $\pm$ to all elements of a Collatz sequence, i.e.
 $C(1)=1$,
