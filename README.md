@@ -20,7 +20,7 @@ For $n\geq{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides
 
 **1. (Generalized). Mixed Sum (2023.1.19; open)**
 <br/>
-How many primes are there in the form $p_n={^{a}2}+{^{b}3}$, finitely or infinitely many?
+How many primes are there in the form $p={^{a}2}+{^{b}3}$, finitely or infinitely many?
 <br/>
 <strong> Answer </strong>
 <br/>
