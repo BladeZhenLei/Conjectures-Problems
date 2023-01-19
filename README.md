@@ -86,7 +86,7 @@ Is $2\cdot3^{3^{3^{3}}}-1$ prime?
 <br/>
 <strong> Answer </strong>
 <br/>
-No, it has a divisor $2504371752217$.
+No, it has divisor $2504371752217$.
 
 **2. (open)**
 <br/>
