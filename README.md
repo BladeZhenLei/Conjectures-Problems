@@ -26,6 +26,9 @@ How many primes are there in the form $p={^{a}2}+{^{b}3}$, finitely or infinitel
 <br/>
 None.
 
+
+
+
 **2. $n$ Factorial Sum (2022.10.9; open)** 
 <br/>
 For any integer $n\geq{1}$, is there always a prime that can be obtained from combinations of addition and subtraction of all elements in the set $\lbrace{1!, 2!, 3!, …, n!}\rbrace$? 
@@ -59,7 +62,7 @@ None.
 
 
 
-**4. Collatz Sequence Sum (2022.10.25; open)**
+**3. Collatz Sequence Sum (2022.10.25; open)**
 <br/>
 If we randomly assign $\pm$ to all elements of a Collatz sequence, i.e.
 $C(1)=1$,
@@ -73,7 +76,10 @@ will at least one combination always converge a 0 or 1?
 <br/>
 None.
 
-### Little Problems
+
+
+
+### Computation Problems
 **1. (solved)**
 <br>
 Is $2\cdot3^{3^{3^{3}}}-1$ prime?
