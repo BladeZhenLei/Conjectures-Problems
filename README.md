@@ -1,5 +1,6 @@
 ***
 ### Main Problems
+## Prime Numbers
 **1. Tower Sum (2022.1.19; solved)**
 <br/>
 Denote the tetration of an integer as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Other than $p_1$, $p_2$, and $p_3$, are there more primes in the form $p_n={^{n}2}+{^{n}3}=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$?
@@ -16,6 +17,14 @@ For $n=4$, we have $21219553216129$ divides $p_4$.
 For $n\geq{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides $p_6$ or greater. In fact, there might be only finitely many divisors for all $p_n$. 
 <br/>
 (Note: this incredible general case result was obtained by another author which can be found under the same link).
+
+**1. (Generalized). Mixed Sum (2022.1.19; solved)**
+<br/>
+How many primes are there in the form $p_n={^{a}2}+{^{b}3}$, finitely or infinitely many?
+<br/>
+<strong> Answer </strong>
+<br/>
+None.
 
 **2. Factorial Sum (2022.10.9; open)** 
 <br/>
