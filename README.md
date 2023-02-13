@@ -50,7 +50,7 @@ This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for a
 
 **[Generalized] Two Factorial Sum (2022.10.10; partially solved)**
 <br/>
-For all integers $n,k\in{Z}$, $n\geq{k}\geq{1}$, could we find finite exceptions such that $P\cap\lbrace{n!}\pm{k!}\pm{1!}\rbrace=\varnothing$?
+For all $n,k\in{Z}$, $n\geq{k}\geq{1}$, could we find finite exceptions such that $P\cap\lbrace{n!}\pm{k!}\pm{1!}\rbrace=\varnothing$?
 <br/>
 <strong> Comment </strong>
 <br/>
@@ -58,7 +58,7 @@ The counter examples only appeared at $n=\lbrace{63, 161, 382, 902}\rbrace$ for 
 
 **[Generalized] Three Factorial Sum (2022.10.12; open)**
 <br/>
-For all ${a}\geq{b}\geq{c}\geq{1}$, can we always find a prime of form ${a!}\pm{b!}\pm{c!}\pm{1}$?
+For all $a,b,c\in{Z}$, $a\geq{b}\geq{c}\geq{1}$, could we find finite exceptions such that $P\cap\lbrace{a!}\pm{b!}\pm{c!}\pm{1!}\rbrace=\varnothing$?
 <br/>
 <strong> Comment </strong>
 <br/>
