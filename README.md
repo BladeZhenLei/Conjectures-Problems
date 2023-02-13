@@ -27,7 +27,7 @@ None.
 
 **[Generalized] $n$-Tower Sum (2023.1.19; open)**
 <br/>
-How many prime divisors are there for all such ${^{e_1}1}+{^{e_2}2}+...{^{e_n}n}$, could there be only finitely many?
+How many prime divisors are there for all such ${^{e_1}1}+{^{e_2}2}+...{^{e_n}n}$, where $e_i\geq1$ could there be only finitely many?
 <br/>
 <strong> Comment </strong>
 <br/>
