@@ -19,7 +19,7 @@ For $n\geq{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides
 
 **[Generalized] $2$-Tower Sum (2023.1.19; open)**
 <br/>
-How many prime divisors are there for all such ${^{c}a}+{^{c}b}$, could there be only finitely many?
+How many primes are there for all such ${^{c}a}+{^{c}b}$, could there be only finitely many?
 <br/>
 <strong> Comment </strong>
 <br/>
@@ -27,7 +27,7 @@ None.
 
 **[Generalized] $n$-Tower Sum (2023.1.19; open)**
 <br/>
-How many prime divisors are there for all such ${^{e_1}1}+{^{e_2}2}+...{^{e_n}n}$, where $e_i\geq1$, could there be only finitely many?
+How many prime divisors are there for all such ${^{e_1}1}+{^{e_2}2}+...{^{e_n}n}$, where $e_{i+1}>e_{i}$, could there be only finitely many?
 <br/>
 <strong> Comment </strong>
 <br/>
