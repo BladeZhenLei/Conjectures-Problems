@@ -34,8 +34,6 @@ How many prime divisors are there for all such ${^{e_1}1}+{^{e_2}2}+...+{^{e_n}n
 None.
 
 
-
-
 **2. $N$ Factorial Sum (2022.10.9; open)** 
 <br/>
 For any integer $n\geq{1}$, is there always a prime that can be obtained from combinations of addition and subtraction of all elements in the set $\lbrace{1!, 2!, 3!, …, n!}\rbrace$? 
@@ -67,8 +65,6 @@ For all ${a}\geq{b}\geq{c}\geq{1}$, can we always find a prime of form ${a!}\pm{
 None.
 
 
-
-
 **3. Collatz Sequence Sum (2022.10.25; open)**
 <br/>
 If we assign $\pm$ to all elements of a Collatz sequence, i.e.
@@ -78,12 +74,10 @@ $S(3)=3-10+5+16-8-4-2+1$,
 $S(4)=4-2-1$,
 $S(5)=5-16+8+4-2+1$,
 $S(6)=6+3-10-5+16-8-4+2+1$,
-is it true that $\min(|S(n)|)\leq{1}?  
+is it true that $\min(|S(n)|)\leq{1}$?  
 <strong> Comment </strong>
 <br/>
 None.
-
-
 
 
 ### Computation Problems
@@ -110,8 +104,6 @@ None.
 <strong> Comment </strong>
 <br/>
 None.
-
-
 
 
 <p/>
