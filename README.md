@@ -1,8 +1,6 @@
 ***
 ### Main Conjectures
 <p/>
-**Warning: DO NOT brute force, some computations required are magnitude higher than conventional computer can do** 
-<p/>
 **1. Tower Sum (2022.1.19; solved)**
 <br/>
 Denote the tetration of an integer as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Other than $p_1$, $p_2$, and $p_3$, are there more primes in the form $p_n={^{n}2}+{^{n}3}=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$?
