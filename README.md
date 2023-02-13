@@ -48,7 +48,7 @@ $p_n=n!\pm(n-1)!\pm(n-2)!\pm(n-3)!\pm\cdot\cdot\cdot\pm{1!}.$
 <br/>
 This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for all positive integers. Considering the prime density around $n!$ with such combination shoud be $\frac{2^{n-1}}{nlog(n)}>1$.
 
-**[Generalized] Two Factorial Sum (2022.10.10; partially solved)**
+**[Generalized] Two Factorial Sum (2022.10.10; open)**
 <br/>
 For all $n,k\in{Z}$, $n\geq{k}\geq{1}$, could we find finite exceptions such that $P\cap\lbrace{n!}\pm{k!}\pm{1!}\rbrace=\varnothing$?
 <br/>
