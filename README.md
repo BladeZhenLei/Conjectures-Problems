@@ -19,7 +19,7 @@ For $n\geq{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides
 
 **[Generalized] $2$-Tower Sum (2023.2.13; open)**
 <br/>
-How many primes are there for all such ${^{n}a}+{^{n}b}$, could there be only finitely many?
+How many primes are there for all such ${^{n}a}+{^{n}b}$, finitely or infinitely many?
 <br/>
 <strong> Comment </strong>
 <br/>
@@ -71,14 +71,14 @@ None.
 
 **3. Collatz Sequence Sum (2022.10.25; open)**
 <br/>
-If we randomly assign $\pm$ to all elements of a Collatz sequence, i.e.
-$C(1)=1$,
-$C(2)=2-1$,
-$C(3)=3-10+5+16-8-4-2+1$,
-$C(4)=4-2-1$,
-$C(5)=5-16+8+4-2+1$,
-$C(6)=6+3-10-5+16-8-4+2+1$,
-will at least one combination always converge a 0 or 1?  
+If we assign $\pm$ to all elements of a Collatz sequence, i.e.
+$S(1)=1$,
+$S(2)=2-1$,
+$S(3)=3-10+5+16-8-4-2+1$,
+$S(4)=4-2-1$,
+$S(5)=5-16+8+4-2+1$,
+$S(6)=6+3-10-5+16-8-4+2+1$,
+is it true that $\min(|S(n)|)\leq{1}?  
 <strong> Comment </strong>
 <br/>
 None.
