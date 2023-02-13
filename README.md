@@ -50,11 +50,11 @@ This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for a
 
 **[Generalized] Two Factorial Sum (2022.10.10; partially solved)**
 <br/>
-For all integers ${n}\geq{k}\geq{1}$, can we always find a prime of form ${n!}\pm{k!}\pm{1!}$? If not, could there be finitely many exceptions? 
+For all integers ${n}\geq{k}\geq{1}$, exceptions of a prime obtained from the set $S=\lbrace{n!}\pm{k!}\pm{1!}|n\in{Z}\rbrace$?
 <br/>
 <strong> Comment </strong>
 <br/>
-The answer to the first question is 'no', and the second is 'maybe', these counter examples only appeared at $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq1250$.
+The counter examples only appeared at $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq1250$.
 
 **[Generalized] Three Factorial Sum (2022.10.12; open)**
 <br/>
