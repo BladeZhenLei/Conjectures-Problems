@@ -50,7 +50,7 @@ This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for a
 
 **[Generalized] Two Factorial Sum (2022.10.10; partially solved)**
 <br/>
-For all integers ${n}\geq{k}\geq{1}$, exceptions of a prime obtained from the set $\lbrace{n!}\pm{k!}\pm{1!}\rbrace$?
+For all integers ${n}\geq{k}\geq{1}$, could we find finite exceptions such that $P\cap\lbrace{n!}\pm{k!}\pm{1!}\rbrace=\varnothing$?
 <br/>
 <strong> Comment </strong>
 <br/>
