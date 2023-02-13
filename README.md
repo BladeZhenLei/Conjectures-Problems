@@ -74,7 +74,7 @@ $S(3)=3-10+5+16-8-4-2+1$,
 $S(4)=4-2-1$,
 $S(5)=5-16+8+4-2+1$,
 $S(6)=6+3-10-5+16-8-4+2+1$,
-is it true that $\min(|S(n)|)\leq{1}$?  
+is it true that $\min(|S(n)|)\leq{1}$ always hold?  
 <strong> Comment </strong>
 <br/>
 None.
