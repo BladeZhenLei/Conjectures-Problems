@@ -17,9 +17,17 @@ For $n\geq{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides
 <br/>
 (Note: this incredible general case result was obtained by another author which can be found under the same link).
 
-**[Generalized] Mixed Tower Sum (2023.1.19; open)**
+**[Generalized] $2$-Tower Sum (2023.1.19; open)**
 <br/>
-How many primes are there in the form $p={^{a}2}+{^{b}3}$, where ${a}\neq{b}$, finitely or infinitely many?
+How many prime divisors are there for all such ${^{a}b}+{^{c}d}$, could there be only finitely many?
+<br/>
+<strong> Comment </strong>
+<br/>
+None.
+
+**[Generalized] $n$-Tower Sum (2023.1.19; open)**
+<br/>
+How many prime divisors are there for all such ${^{e_1}1}+{^{e_2}2}+...{^{e_n}n}$, could there be only finitely many?
 <br/>
 <strong> Comment </strong>
 <br/>
