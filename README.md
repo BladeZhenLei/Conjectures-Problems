@@ -19,7 +19,7 @@ For $n\geq{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides
 
 **[Generalized] $2$-Tower Sum (2023.2.13; open)**
 <br/>
-How many primes are there for all such ${^{c}a}+{^{c}b}$, could there be only finitely many?
+How many primes are there for all such ${^{n}a}+{^{n}b}$, could there be only finitely many?
 <br/>
 <strong> Comment </strong>
 <br/>
