@@ -51,7 +51,7 @@ This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for a
 
 **[Specified] $2$-Factorial Sum (2022.10.10; open)**
 <br/>
-For all $n,k\in{Z}$, $n\geq{k}\geq{1}$, is $|\lbrace{n!}\pm{k!}\pm{1}\rbrace\cap\lbrace{P}\rbrace|$ finite?
+For all $n,k\in{Z}$, $n\geq{k}\geq{1}$, is $\lbrace{n!}\pm{k!}\pm{1}\rbrace\cap\lbrace{P}\rbrace$ a finite set?
 <br/>
 <strong> Comment </strong>
 <br/>
