@@ -51,7 +51,7 @@ This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for a
 
 **[Specified] $2$-Factorial Sum (2022.10.10; open)**
 <br/>
-For all $n,k\in{Z}$, $n\geq{k}\geq{1}$, could we find finite examples such that ${n!}\pm{k!}\pm{1}$ is prime?
+For all $n,k\in{Z}$, $n\geq{k}\geq{1}$, is $card\lbrace{n!}\pm{k!}\pm{1}\rbrace\cup{P} finite?
 <br/>
 <strong> Comment </strong>
 <br/>
