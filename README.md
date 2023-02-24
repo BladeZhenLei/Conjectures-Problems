@@ -51,11 +51,11 @@ This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for a
 
 **[Specified] $2$-Factorial Sum (2022.10.10; open)**
 <br/>
-For all $n,k\in{Z}$, $n\geq{k}\geq{1}$, is $\lbrace{n!}\pm{k!}\pm{1}\rbrace\cap\lbrace{P}\rbrace$ a finite set?
+For all $n,k\in{Z}$, $n\geq{k}\geq{1}$, define $S=\lbrace{n!}\pm{k!}\pm{1}\rbrace\cap\lbrace{P}\rbrace$, is $S^C$ a finite set?
 <br/>
 <strong> Comment </strong>
 <br/>
-The counter examples only appeared at $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq1250$.
+The known examples are only $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq1250$.
 
 **3. $N$-Collatz Sum (2022.10.25; open)**
 <br/>
