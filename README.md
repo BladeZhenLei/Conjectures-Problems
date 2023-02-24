@@ -1,7 +1,7 @@
 ### Main Conjectures
 Many of these involve large number compuation and are beyond the capacity of conventional computers, it can only be hoped that advances in additive number theory, or, quantum computers can help further understand such problems.
 <p/>
-**1. Simple Tower Sum (2022.1.19; solved)**
+**1. Tower of $2$ and $3$ Sum (2022.1.19; solved)**
 <br/>
 Denote the tetration of an integer as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Other than $p_1$, $p_2$, and $p_3$, are there more primes in the form $p_n={^{n}2}+{^{n}3}=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$?
 <br/>
