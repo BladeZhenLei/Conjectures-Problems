@@ -1,6 +1,6 @@
 ***
 ### Main Conjectures
-Many of these involving large number compuation is beyond the current compacity of conventional computers and even super computers. It can only be hoped that advances in additive number theory, or, quantum computation can help further understand such problems.
+Many of these involving large number compuation are beyond the current compacity of conventional computers and even super computers. It can only be hoped that advances in additive number theory, or, quantum computation can help further understand such problems.
 <p/>
 **1. Tower Sum (2022.1.19; solved)**
 <br/>
