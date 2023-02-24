@@ -51,7 +51,7 @@ This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for a
 
 **[Specified] $2$-Factorial Sum (2022.10.10; open)**
 <br/>
-For any given $n\in{N}$, let $k\in{Z}$ such that $n\geq{k}\geq{1}$, define $S=\lbrace{n!}\pm{k!}\pm{1}\rbrace\cap\lbrace{P}\rbrace$, is $S^c$ a finite set?
+For any given $n\in{N}$, let $k\in{Z}$ such that $n\geq{k}\geq{1}$, define $S=\lbrace{n!}\pm{k!}\pm{1}\rbrace\cap{P}$, is $S^c$ a finite set?
 <br/>
 <strong> Comment </strong>
 <br/>
