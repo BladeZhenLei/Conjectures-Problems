@@ -1,6 +1,5 @@
 ***
 ### Main Conjectures
-<br/>
 (Many of these problems involve large number compuation which is beyond the compacity of conventional computers)
 <br/>
 **1. Tower Sum (2022.1.19; solved)**
