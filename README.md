@@ -1,4 +1,3 @@
-***
 ### Main Conjectures
 Many of these involve large number compuation and are beyond the capacity of conventional computers, it can only be hoped that advances in additive number theory, or, quantum computers can help further understand such problems.
 <p/>
