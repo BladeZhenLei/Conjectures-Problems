@@ -35,8 +35,7 @@ How many prime divisors are there for all such ${^{e_1}1}+{^{e_2}2}+...+{^{e_n}n
 <br/>
 None.
 
-
-**2. $N$ Factorial Sum (2022.10.9; open)** 
+**2. $N$-Factorial Sum (2022.10.9; open)** 
 <br/>
 For any integer $n\geq{1}$, is there always a prime that can be obtained from combinations of addition and subtraction of all elements in the set $\lbrace{1!, 2!, 3!, …, n!}\rbrace$? 
 Such as
@@ -50,7 +49,7 @@ $p_n=n!\pm(n-1)!\pm(n-2)!\pm(n-3)!\pm\cdot\cdot\cdot\pm{1!}.$
 <br/>
 This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for all positive integers. Considering the prime density around $n!$ with such combination shoud be $\frac{2^{n-1}}{nlog(n)}>1$.
 
-**[Generalized] Two Factorial Sum (2022.10.10; open)**
+**[Specified] $2$-Factorial Sum (2022.10.10; open)**
 <br/>
 For all $n,k\in{Z}$, $n\geq{k}\geq{1}$, could we find finite exceptions such that $P\cap\lbrace{n!}\pm{k!}\pm{1!}\rbrace=\varnothing$?
 <br/>
@@ -58,36 +57,25 @@ For all $n,k\in{Z}$, $n\geq{k}\geq{1}$, could we find finite exceptions such tha
 <br/>
 The counter examples only appeared at $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq1250$.
 
-**[Generalized] Three Factorial Sum (2022.10.12; open)**
-<br/>
-For all $a,b,c\in{Z}$, $a\geq{b}\geq{c}\geq{1}$, could we find finite exceptions such that $P\cap\lbrace{a!}\pm{b!}\pm{c!}\pm{1!}\rbrace=\varnothing$?
-<br/>
-<strong> Comment </strong>
-<br/>
-None.
-
-
-**3. Collatz Sequence Sum (2022.10.25; open)**
+**3. $N$-Collatz Sum (2022.10.25; open)**
 <br/>
 If we assign $\pm$ to all elements of a Collatz sequence, i.e.
 $S(1)=1$,
 $S(2)=2-1$,
 $S(3)=3-10+5+16-8-4-2+1$,
 $S(4)=4-2-1$,
-$S(5)=5-16+8+4-2+1$,
-$S(6)=6+3-10-5+16-8-4+2+1$,
+$S(5)=5-16+8+4-2+1$, ...,
 is it true that $\min(|S(n)|)\leq{1}$ always hold?  
 <strong> Comment </strong>
 <br/>
-None.
-
+This is verified to be true for $n\leq{10^6}$.
 
 ### Computation Problems
 **1.** Is $2\cdot3^{3^{3^{3}}}-1$ prime?
 <br/>
 <strong> Answer </strong>
 <br/>
-No, it has the smallest divisor $2504371752217$.
+No, it has the smallest non-trivial divisor $2504371752217$.
 
 **2.** Is $3^{3^{3^{3}}}+4$ prime?
 <br/>
