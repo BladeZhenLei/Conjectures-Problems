@@ -11,7 +11,7 @@ No, the frist three are the only primes in such pattern.
 <br/>
 For $n=4$, we have $21219553216129$ divides $p_4$. 
 <br/>
-(Note: it is impossible to calculate $p_4$ itself as it is magnitude bigger than the largest number human ever computed, this result was obtained using trival division on 2/24/2022 through one month of exhaustive paid cloud computing which should be credited to the original autho, see 
+(Note: it is impossible to calculate $p_4$ itself as it is magnitude bigger than the largest number human ever computed, this result was obtained using trival division on 2/24/2022 through one month of exhaustive paid cloud computing which should be credited to the original author, see 
 <a href="https://www.zhihu.com/question/512482114/answer/2319816820?utm_id=0"> Original Answer (in Chinese) </a>.
 <br/>
 For $n\geq{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides $p_6$ or greater. 
