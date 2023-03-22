@@ -16,7 +16,7 @@ For $n=4$, we have $21219553216129$ divides $p_4$.
 <br/>
 For $n>{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides $p_6$ or greater. 
 <br/>
-(Note: this incredible general case result was obtained by another author which can be found under the same link).
+(Note: this incredible general case result was obtained using Extended Euclidean Algorithm by another author which can be found under the same link).
 
 **[Generalized] $2$-Tower Sum (2023.2.13; open)**
 <br/>
