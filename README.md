@@ -13,8 +13,8 @@ For $n=4$, we have $21219553216129$ divides $p_4$.
 <br/>
 For $n>{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides $p_6$ or greater. 
 <br/>
-(Note: It is impossible to calculate $p_4$ itself as it is several magnitudes bigger (3,638,334,640,024 digits) than the largest prime number human ever computed (24,862,048 digits), the first result was obtained on 2/24/2022 through exhaustive cloud computing using trial division method, it took more than a month to find the smallest divisor, which should be credited to the original author. The second incredible general case result was obtained by another author using Extended Euler's Theorem. See 
-<a href="https://www.zhihu.com/question/512482114/answer/2319816820?utm_id=0"> Is 2^2^2^2+3^3^3^3 prime? (in Chinese) </a>.)
+(Note: It is impossible to calculate $p_4$ itself as it is several magnitudes bigger (3,638,334,640,024 digits) than the largest prime number human ever computed (24,862,048 digits), the first result was obtained on 2/24/2022 through exhaustive cloud computing using trial division method, it took more than a month to find the smallest divisor, which should be credited to the original author. The second incredible general case result was obtained by another author using Extended Euler's Theorem. See (In Chinese)
+<a href="https://www.zhihu.com/question/512482114/answer/2319816820?utm_id=0"> Is 2^2^2^2+3^3^3^3 prime? </a>.)
 
 **[Generalized] $2$-Tower Sum (2023.2.13; open)**
 <br/>
