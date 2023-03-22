@@ -3,15 +3,15 @@ Many of these involve large number compuation and are beyond the capacity of con
 <p/>
 **1. Tower of $2$ and $3$ Sum (2022.1.19; solved)**
 <br/>
-Denote the tetration of an integer as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where $a$ is present $n$ times. Other than $p_1$, $p_2$, and $p_3$, are there more primes in the form $p_n={^{n}2}+{^{n}3}=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$?
+Denote the tetration of an integer $a$ as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where the exponent is repeated $n$ times. Other than $p_1$, $p_2$, and $p_3$, are there more primes in the form $p_n={^{n}2}+{^{n}3}=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$?
 <br/>
 <strong> Answer </strong>
 <br/>
-No, the frist three are the only primes in such pattern.
+No, the frist three terms are the only primes in such pattern.
 <br/>
 For $n=4$, we have $21219553216129$ divides $p_4$. 
 <br/>
-(Note: it is impossible to calculate $p_4$ itself as it is magnitude bigger (3638334640024 digits) than the largest number human ever computed (24862048 digits), this result was obtained using trival division on 2/24/2022 through one month of exhaustive paid cloud computing which should be credited to the original author, see 
+(Note: it is impossible to calculate $p_4$ itself as it is magnitude bigger (3,638,334,640,024 digits) than the largest prime number human ever computed (24,862,048 digits), this result was obtained using trial division on 2/24/2022 through one month of exhaustive paid cloud computing which should be credited to the original author, see 
 <a href="https://www.zhihu.com/question/512482114/answer/2319816820?utm_id=0"> Original Answer (in Chinese) </a>.
 <br/>
 For $n>{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides $p_6$ or greater. 
