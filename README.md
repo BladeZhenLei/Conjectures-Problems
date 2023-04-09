@@ -86,12 +86,6 @@ None.
 <br/>
 None.
 
-**4.** Is $3^{2^{2^{2^{2}}}}+2^{2^{2^{2^{2}}}}$ prime?
-<br/>
-<strong> Comment </strong>
-<br/>
-None.
-
 
 <p/>
 <html lang="en">
