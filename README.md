@@ -7,7 +7,16 @@ Many of these involve large number compuation and are beyond the capacity of con
 For each prime of the form $2^{a}-3^{b}$, where $a>b$, it suffices that $gcd(a,b)=1$ or $gcd(a,b)=p$, in which case, $a=2p$ and $b=p$.  
 <strong> Comment </strong>
 <br/>
-Initial observation has identified it to be true for $a\leq10^3$.
+Initial observation has identified it to be true for $a\leq10^3$, specially, 
+$$2^4-3^2 (gcd=2)$$
+$$2^6-3^3 (gcd=3)$$
+$$2^14-3^7 (gcd=7)$$
+$$2^34-3^17 (gcd=17)$$
+$$2^118-3^59 (gcd=59)$$
+$$2^566-3^283 (gcd=283)$$
+$$2^622-3^311 (gcd=311)$$
+$$2^766-3^383 (gcd=383)$$
+$$2^998-3^499 (gcd=499)$$
 
 **2. Tower of $2$ and $3$ Sum (2022.1.19; solved)**
 <br/>
