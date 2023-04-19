@@ -7,7 +7,9 @@ Many of these involve large number compuation and are beyond the capacity of con
 For each prime of the form $2^{a}-3^{b}$, where $a>b$, it suffices that $gcd(a,b)=1$ or $gcd(a,b)=p$, in which case, $a=2p$ and $b=p$.  
 <strong> Comment </strong>
 <br/>
-Initial observation has identified it to be true for $a\leq10^3$, specially, 
+Initial observation has identified it to be true for $a\leq10^3$. 
+<br/>
+Specially, 
 $$2^4-3^2 (gcd=2)$$
 $$2^6-3^3 (gcd=3)$$
 $$2^{14}-3^7 (gcd=7)$$
