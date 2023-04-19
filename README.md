@@ -10,7 +10,7 @@ For each prime of the form $2^{a}-3^{b}$, where $a>b$, it suffices that $gcd(a,b
 Initial observation has identified it to be true for $a\leq10^3$. 
 <br/>
 Specially, 
-$$2^4-3^2 (gcd=2)$$
+$$2^4-3^2\:(gcd=2)$$
 $$2^6-3^3 (gcd=3)$$
 $$2^{14}-3^7 (gcd=7)$$
 $$2^{34}-3^{17} (gcd=17)$$
