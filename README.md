@@ -2,7 +2,7 @@
 Many of these involve large number compuation and are beyond the capacity of conventional computers, it can only be hoped that advances in additive number theory or quantum computers can help further understand such problems.
 <p/>
 
-**1. Gap of 2 and 3 Exponent (2023.04.19; open)**
+**1. Exponent of 2 and 3 Gap (2023.04.19; open)**
 <br/>
 For each prime of the form $2^{a}-3^{b}$, where $a>b$, it suffices that $gcd(a,b)=1$ or $gcd(a,b)=p$, in which case, $a=2p$ and $b=p$.  
 <strong> Comment </strong>
