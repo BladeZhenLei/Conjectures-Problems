@@ -2,15 +2,7 @@
 Many of these involve large number compuation and are beyond the capacity of conventional computers, it can only be hoped that advances in additive number theory or quantum computers can help further understand such problems.
 <p/>
 
-**1. Exponent of 2 and 3 Gap (2023.04.19; open)**
-<br/>
-For each prime of the form $2^{a}-3^{b}$, where $a>b$ and $a\neq2^k$, it suffices that $gcd(a,b)=1$.
-<br/>
-<strong> Comment </strong>
-<br/>
-Initial observation has identified it to be true for $a\leq10^3$. 
-
-**2. Tower of $2$ and $3$ Sum (2022.1.19; solved)**
+**1. Tower of $2$ and $3$ Sum (2022.1.19; solved)**
 <br/>
 Denote the tetration of an integer $a$ as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where the exponent is repeated $n$ times. Other than $p_1$, $p_2$, and $p_3$, are there more primes in the form $p_n={^{n}2}+{^{n}3}=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$?
 <br/>
@@ -41,7 +33,7 @@ How many prime divisors are there for all such ${^{e_1}1}+{^{e_2}2}+...+{^{e_n}n
 <br/>
 None.
 
-**3. $N$-Factorial Sum (2022.10.9; open)** 
+**2. $N$-Factorial Sum (2022.10.9; open)** 
 <br/>
 For any integer $n\geq{1}$, is there always a prime that can be obtained from combinations of addition and subtraction of all elements in the set $\lbrace{1!, 2!, 3!, …, n!}\rbrace$? 
 Such as
@@ -63,7 +55,7 @@ For any given $n\in{N}$, let $k\in{Z}$ such that $n\geq{k}\geq{1}$, define $S=\l
 <br/>
 The known examples are only $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq1250$.
 
-**4. $N$-Collatz Sum (2022.10.25; open)**
+**3. $N$-Collatz Sum (2022.10.25; open)**
 <br/>
 If we assign $\pm$ to all elements of a Collatz sequence, i.e.
 $S(1)=1$,
@@ -75,6 +67,15 @@ is it true that $\min(|S(n)|)\leq{1}$ always hold?
 <strong> Comment </strong>
 <br/>
 This is verified to be true for $n\leq{10^6}$.
+
+**4. Exponent of 2 and 3 Gap (2023.04.19; open)**
+<br/>
+For each prime of the form $2^{a}-3^{b}$, where $a>b$ and $a\neq2^k$, it suffices that $gcd(a,b)=1$.
+<br/>
+<strong> Comment </strong>
+<br/>
+Initial observation has identified it to be true for $a\leq10^3$. 
+
 
 
 ### Computation Problems
