@@ -68,14 +68,6 @@ is it true that $\min(|S(n)|)\leq{1}$ always hold?
 <br/>
 This is verified to be true for $n\leq{10^6}$.
 
-**4. Exponent of 2 and 3 Gap (2023.04.19; open)**
-<br/>
-For each prime of the form $2^{a}-3^{b}$, where $a>b$ and $a\neq2^k$, it suffices that $gcd(a,b)=1$.
-<br/>
-<strong> Comment </strong>
-<br/>
-Initial observation has identified it to be true for $a\leq10^3$. 
-
 
 
 ### Computation Problems
