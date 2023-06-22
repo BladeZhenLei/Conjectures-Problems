@@ -1,5 +1,5 @@
 ### Main Conjectures
-Many of these involve large number compuation and are beyond the capacity of conventional computers, it can only be hoped that advances in additive number theory or quantum computers can help further understand such problems.
+There are two simple and common ways of constructing computable large numbers, one is through repeated exponentials (tertration), and the other one is through stacked factorials (multifactorials), both do not involve complicated arithmetical hierachy. But still, many of these numbers have magnitude that are well beyond the capacity of conventional computers, it can only be hoped that advances in additive number theory or quantum computers can help further understand their related problems. All of the following conjectures/problems are originally created by me, some are inspired by others.
 <p/>
 
 **1. Tower of $2$ and $3$ Sum (2022.1.19; solved)**
