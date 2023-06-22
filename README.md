@@ -16,7 +16,7 @@ For $n>{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides $p
 <br/>
 A brief verification based on the results can be shown as follow:
 <br/>
-$3^{3^{3^{3}}}={(3^{3^{20}})}^{2187}=2210105334066^{2187} \equiv 212195553150593 &ensp; (mod &ensp; 21219553216129)$
+$3^{3^{3^{3}}}={(3^{3^{20}})}^{2187}=2210105334066^{2187} \equiv 212195553150593 &ensp; (mod &ensp; 21219553216129),$
 <br/>
 $3^{3^{3^{3}}}+2^{2^{2^{2}}}=65536+21219553150593\equiv{0 &ensp; (mod &ensp; 21219553216129)}.$
 <br/>
