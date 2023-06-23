@@ -18,10 +18,13 @@ For $n>{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides $p
 <br/>
 <strong> $Proof.$ </strong>
 <br/>
-The case for $p_4$ can be verified as follow: $3^{3^{3^{3}}}={(3^{3^{20}})}^{2187}=2210105334066^{2187} \equiv 212195553150593 &ensp; (mod &ensp; 21219553216129),3^{3^{3^{3}}}+2^{2^{2^{2}}}=65536+21219553150593\equiv{0 &ensp;(mod&ensp; 21219553216129)}.$
 Let $\phi^{k}(n)$ be the $k$ layers of the $Euler$ function, then there exist $n>m$ such that $\phi^{m}(n)=1$. For $x={^{b}a}&ensp;(mod&ensp;n)$, if we find $b>l>m$ such that ${^{l-m}a}>n$, then $x$ is constant. 
 <br/>
-For example, $\phi^{11}(4423)=1$, ${^{5}2}>4423$, then for $b\geq{6}$, we have ${^{b}2}&ensp;(mod&ensp;4423)=2197$, and ${^{b}3}&ensp;(mod&ensp;4423)=2226$, therefore ${^{b}2}+{^{b}3}=2197+2226&ensp;(mod&ensp;4423)=0&ensp;(mod&ensp;4423), this solves the case$  
+For example, $\phi^{11}(4423)=1$, ${^{5}2}>4423$, then for $b\geq{6}$, we have ${^{b}2}&ensp;(mod&ensp;4423)=2197$, and ${^{b}3}&ensp;(mod&ensp;4423)=2226$, therefore ${^{b}2}+{^{b}3}=2197+2226&ensp;(mod&ensp;4423)=0&ensp;(mod&ensp;4423), this solves all the case $b\geq{6}$.  
+<br/>
+The case for $p_5$ can be brute force solved as ${^{5}2}+{^{5}3}=20853622+13422765&ensp;(mod&ensp;34276387)=0&ensp;(mod&ensp;34276387)$.
+<br/>
+The case for $p_4$ can be verified as follow: ${^{4}3}={(3^{3^{20}})}^{2187}=2210105334066^{2187} \equiv 212195553150593 &ensp; (mod &ensp; 21219553216129),{^{4}2}+{^{4}3}=65536+21219553150593\equiv{0 &ensp;(mod&ensp; 21219553216129)}.$
 
 
 **[Generalized] $2$-Tower Sum (2023.2.13; open)**
