@@ -21,23 +21,25 @@ For $n>{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides $p
 Let $\phi^{k}(x)$ be the $k$ layers of the $Euler$ $function$, then there exist $x>m$ such that $\phi^{m}(x)=1$. For $N={^{b}a}&ensp;(mod&ensp;x)$, if we find $b>l>m$ such that ${^{l-m}a}>x$, then $N$ is constant. For example, $\phi^{11}(4423)=1$, ${^{5}2}>4423$, then for $b\geq{6}$, we have ${^{b}2}&ensp;(mod&ensp;4423)=2197$, and ${^{b}3}&ensp;(mod&ensp;4423)=2226$, therefore ${^{b}2}+{^{b}3}=2197+2226&ensp;(mod&ensp;4423)=0&ensp;(mod&ensp;4423)$, this solves the case for all $p_n$ where $n\geq{6}$. The case for $p_5$ can be brute force solved as ${^{5}2}+{^{5}3}=20853622+13422765&ensp;(mod&ensp;34276387)=0&ensp;(mod&ensp;34276387)$. The case for $p_4$ can be verified as follow: ${^{4}3}={(3^{3^{20}})}^{2187}=2210105334066^{2187} \equiv 212195553150593 &ensp; (mod &ensp; 21219553216129),{^{4}2}+{^{4}3}=65536+21219553150593\equiv{0 &ensp;(mod&ensp; 21219553216129)}.$
 
 
-
+<p/>
 **2. $2$-Tower Sum (2023.2.13; open)**
 <br/>
 How many primes are there in the form of ${^{n}a}+{^{n}b}$, finitely or infinitely many?
-<br/>
-<strong> Comment </strong>
+<p/>
+<strong> Answer </strong>
 <br/>
 None.
 
+<p/>
 **3. $N$-Tower Sum (2023.2.13; open)**
 <br/>
 How many prime divisors are there for all such ${^{e_1}1}+{^{e_2}2}+...+{^{e_n}n}$, where $e_{i+1}>e_{i}$, could there be only finitely many?
-<br/>
-<strong> Comment </strong>
+<p/>
+<strong> Answer </strong>
 <br/>
 None.
 
+<p/>
 **4. $N$-Factorial Sum (2022.10.9; open)** 
 <br/>
 For any integer $n\geq{1}$, is there always a prime that can be obtained from combinations of addition and subtraction of all elements in the set $\lbrace{1!, 2!, 3!, …, n!}\rbrace$? 
@@ -47,19 +49,21 @@ $p_2={2!}\pm{1!},$
 $p_3={3!}\pm{2!}\pm{1!},$
 $\cdots,$
 $p_n=n!\pm(n-1)!\pm(n-2)!\pm(n-3)!\pm\cdot\cdot\cdot\pm{1!}.$
-<br/>
-<strong> Comment </strong>
+<p/>
+<strong> Answer </strong>
 <br/>
 This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for all positive integers. Considering the prime density around $n!$ with such combination shoud be $\frac{2^{n-1}}{nlog(n)}>1$.
 
+<p/>
 **5. $2$-Factorial Sum (2022.10.10; open)**
 <br/>
 For any given $n\in{N}$, let $k\in{Z}$ such that $n\geq{k}\geq{1}$, define $S=\lbrace{n!}\pm{k!}\pm{1}\rbrace\cap{P}$, is $S^c$ a finite set?
-<br/>
-<strong> Comment </strong>
+<p/>
+<strong> Answer </strong>
 <br/>
 The known examples are only $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq1250$.
 
+<p/>
 **6. $N$-Collatz Sum (2022.10.25; open)**
 <br/>
 If we assign $\pm$ to all elements of a Collatz sequence, i.e.
@@ -69,7 +73,7 @@ $S(3)=3-10+5+16-8-4-2+1$,
 $S(4)=4-2-1$,
 $S(5)=5-16+8+4-2+1$, ...,
 is it true that $\min(|S(n)|)\leq{1}$ always hold?  
-<strong> Comment </strong>
+<strong> Answer </strong>
 <br/>
 This is verified to be true for $n\leq{10^6}$.
 
@@ -84,13 +88,13 @@ No, it has the smallest non-trivial divisor $2504371752217$.
 
 **2.** Is $3^{3^{3^{3}}}+4$ prime?
 <br/>
-<strong> Comment </strong>
+<strong> Answer </strong>
 <br/>
 None.
 
 **3.** Is $3^{3^{2^{2^{2}}}}-2^{2^{2^{2^{2}}}}$ prime?
 <br/>
-<strong> Comment </strong>
+<strong> Answer </strong>
 <br/>
 None.
 
