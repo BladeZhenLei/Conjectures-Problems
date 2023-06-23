@@ -1,5 +1,5 @@
 ### Main Conjectures
-There are two simple and common ways of constructing computable large numbers, one is through repeated exponentials (tertration), and the other one is through stacked factorials (multifactorials), both do not involve complicated arithmetical hierachy. But still, many of these numbers have magnitude that are well beyond the capacity of conventional computers, it can only be hoped that advances in additive number theory or quantum computers can help further understand their related problems. All of the following conjectures/problems are originally created by me, some are inspired by others.
+There are two simple and common ways of constructing computable large numbers, one is through repeated exponentials (tertration), and the other one is through stacked factorials (multifactorials), both do not involve complicated arithmetical hierachy. But still, many of these numbers have magnitude that are well beyond the capacity of conventional computers, it can only be hoped that advances in additive number theory or quantum computers can help further understand their related problems. All of the conjectures are originally created by me, some are inspired by others.
 <p/>
 
 **1. Tower of $2$ and $3$ Sum (2022.1.19; solved)**
@@ -20,7 +20,11 @@ For $n>{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides $p
 <br/>
 <strong> $Proof.$ </strong>
 <br/>
-Let $\phi^{k}(x)$ be the $k$ layers of the $Euler$ $function$, then there exist $x>m$ such that $\phi^{m}(x)=1$. For $N={^{b}a}&ensp;(mod&ensp;x)$, if we find $b>l>m$ such that ${^{l-m}a}>x$, then $N$ is constant. For example, $\phi^{11}(4423)=1$, ${^{5}2}>4423$, then for $b\geq{6}$, we have ${^{b}2}&ensp;(mod&ensp;4423)=2197$, and ${^{b}3}&ensp;(mod&ensp;4423)=2226$, therefore ${^{b}2}+{^{b}3}=2197+2226&ensp;(mod&ensp;4423)=0&ensp;(mod&ensp;4423)$, this solves the case for all $p_n$ where $n\geq{6}$. The case for $p_5$ can be brute force solved as ${^{5}2}+{^{5}3}=20853622+13422765&ensp;(mod&ensp;34276387)=0&ensp;(mod&ensp;34276387)$. The case for $p_4$ can be verified as follow: ${^{4}3}={(3^{3^{20}})}^{2187}=2210105334066^{2187} \equiv 212195553150593 &ensp; (mod &ensp; 21219553216129),{^{4}2}+{^{4}3}=65536+21219553150593\equiv{0 &ensp;(mod&ensp; 21219553216129)}.$
+Let $\phi^{k}(x)$ be the $k$ layers of the $Euler$ $function$, then there exist $x>m$ such that $\phi^{m}(x)=1$. For $N={^{b}a}&ensp;(mod&ensp;x)$, if we find $b>l>m$ such that ${^{l-m}a}>x$, then $N$ is constant. For example, $\phi^{11}(4423)=1$, ${^{5}2}>4423$, then for $b\geq{6}$, we have ${^{b}2}&ensp;(mod&ensp;4423)=2197$, and ${^{b}3}&ensp;(mod&ensp;4423)=2226$, therefore ${^{b}2}+{^{b}3}=2197+2226&ensp;(mod&ensp;4423)=0&ensp;(mod&ensp;4423)$, this solves the case for all $p_n$ where $n\geq{6}$. The case for $p_5$ can be brute force solved as ${^{5}2}+{^{5}3}=20853622+13422765&ensp;(mod&ensp;34276387)=0&ensp;(mod&ensp;34276387)$. 
+
+<br/>
+  
+The case for $p_4$ can be verified as follow: ${^{4}3}={(3^{3^{20}})}^{2187}=2210105334066^{2187} \equiv 212195553150593 &ensp; (mod &ensp; 21219553216129),{^{4}2}+{^{4}3}=65536+21219553150593\equiv{0 &ensp;(mod&ensp; 21219553216129)}.$
 
 
 <p/>
