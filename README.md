@@ -7,7 +7,7 @@ There are two simple and common ways of constructing computable large numbers, o
 Denote the tetration of an integer $a$ as ${^{n}a}=a^{a^{a^{.^{.^{.}}}}}$ where the exponent is repeated $n$ times. Other than $p_1$, $p_2$, and $p_3$, are there more primes in the form $p_n={^{n}2}+{^{n}3}=3^{3^{3^{.^{.^{.}}}}}+2^{2^{2^{.^{.^{.}}}}}$?
 <br/>
 *Note: It is impossible to calculate $p_4$ itself, as it is several magnitudes bigger (3,638,334,640,024 digits) than the largest prime number that human ever computed (24,862,048 digits), the first result was obtained using trial division method through exhaustive cloud computing, it took more than a month to find the smallest divisor, which should be credited to the original author. The second incredible general case result was obtained by another author under the same post using Extended Euler's Theorem. See <a href="https://www.zhihu.com/question/512482114/answer/2319816820?utm_id=0"> Is 2^2^2^2+3^3^3^3 prime? (In Chinese) </a>.*
-<br/>
+<p/>
 <strong> Answer </strong>
 <br/>
 No, the frist three terms are the only primes in such pattern.
@@ -19,6 +19,7 @@ For $n>{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides $p
 <strong> $Proof.$ </strong>
 <br/>
 Let $\phi^{k}(x)$ be the $k$ layers of the $Euler$ $function$, then there exist $x>m$ such that $\phi^{m}(x)=1$. For $N={^{b}a}&ensp;(mod&ensp;x)$, if we find $b>l>m$ such that ${^{l-m}a}>x$, then $N$ is constant. For example, $\phi^{11}(4423)=1$, ${^{5}2}>4423$, then for $b\geq{6}$, we have ${^{b}2}&ensp;(mod&ensp;4423)=2197$, and ${^{b}3}&ensp;(mod&ensp;4423)=2226$, therefore ${^{b}2}+{^{b}3}=2197+2226&ensp;(mod&ensp;4423)=0&ensp;(mod&ensp;4423)$, this solves the case for all $p_n$ where $n\geq{6}$. The case for $p_5$ can be brute force solved as ${^{5}2}+{^{5}3}=20853622+13422765&ensp;(mod&ensp;34276387)=0&ensp;(mod&ensp;34276387)$. The case for $p_4$ can be verified as follow: ${^{4}3}={(3^{3^{20}})}^{2187}=2210105334066^{2187} \equiv 212195553150593 &ensp; (mod &ensp; 21219553216129),{^{4}2}+{^{4}3}=65536+21219553150593\equiv{0 &ensp;(mod&ensp; 21219553216129)}.$
+
 
 
 **[Generalized] $2$-Tower Sum (2023.2.13; open)**
