@@ -22,6 +22,7 @@ Let $\phi^{k}(x)$ be the $k$ layers of the $Euler$ $function$, then there exist 
 
 
 <p/>
+
 **2. $2$-Tower Sum (2023.2.13; open)**
 <br/>
 How many primes are there in the form of ${^{n}a}+{^{n}b}$, finitely or infinitely many?
@@ -31,6 +32,7 @@ How many primes are there in the form of ${^{n}a}+{^{n}b}$, finitely or infinite
 None.
 
 <p/>
+
 **3. $N$-Tower Sum (2023.2.13; open)**
 <br/>
 How many prime divisors are there for all such ${^{e_1}1}+{^{e_2}2}+...+{^{e_n}n}$, where $e_{i+1}>e_{i}$, could there be only finitely many?
@@ -40,6 +42,7 @@ How many prime divisors are there for all such ${^{e_1}1}+{^{e_2}2}+...+{^{e_n}n
 None.
 
 <p/>
+
 **4. $N$-Factorial Sum (2022.10.9; open)** 
 <br/>
 For any integer $n\geq{1}$, is there always a prime that can be obtained from combinations of addition and subtraction of all elements in the set $\lbrace{1!, 2!, 3!, …, n!}\rbrace$? 
@@ -55,6 +58,7 @@ $p_n=n!\pm(n-1)!\pm(n-2)!\pm(n-3)!\pm\cdot\cdot\cdot\pm{1!}.$
 This statement reamins true for $p_{1}$ to $p_{257}$ and likely to be true for all positive integers. Considering the prime density around $n!$ with such combination shoud be $\frac{2^{n-1}}{nlog(n)}>1$.
 
 <p/>
+
 **5. $2$-Factorial Sum (2022.10.10; open)**
 <br/>
 For any given $n\in{N}$, let $k\in{Z}$ such that $n\geq{k}\geq{1}$, define $S=\lbrace{n!}\pm{k!}\pm{1}\rbrace\cap{P}$, is $S^c$ a finite set?
@@ -64,6 +68,7 @@ For any given $n\in{N}$, let $k\in{Z}$ such that $n\geq{k}\geq{1}$, define $S=\l
 The known examples are only $n=\lbrace{63, 161, 382, 902}\rbrace$ for $n\leq1250$.
 
 <p/>
+
 **6. $N$-Collatz Sum (2022.10.25; open)**
 <br/>
 If we assign $\pm$ to all elements of a Collatz sequence, i.e.
@@ -81,7 +86,7 @@ This is verified to be true for $n\leq{10^6}$.
 
 ### Computation Problems
 **1.** Is $2\cdot3^{3^{3^{3}}}-1$ prime?
-<br/>
+<p/>
 <strong> Answer </strong>
 <br/>
 No, it has the smallest non-trivial divisor $2504371752217$.
@@ -89,11 +94,11 @@ No, it has the smallest non-trivial divisor $2504371752217$.
 **2.** Is $3^{3^{3^{3}}}+4$ prime?
 <br/>
 <strong> Answer </strong>
-<br/>
+<p/>
 None.
 
 **3.** Is $3^{3^{2^{2^{2}}}}-2^{2^{2^{2^{2}}}}$ prime?
-<br/>
+<p/>
 <strong> Answer </strong>
 <br/>
 None.
