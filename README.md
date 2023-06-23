@@ -18,9 +18,9 @@ For $n>{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides $p
 <br/>
 <strong> $Proof.$ </strong>
 <br/>
-Let $\phi^{k}(x)$ be the $k$ layers of the $Euler$ function, then there exist $x>m$ such that $\phi^{m}(x)=1$. For $\epsilon={^{b}a}&ensp;(mod&ensp;x)$, if we find $b>l>m$ such that ${^{l-m}a}>x$, then $\epsilon$ is constant. 
+Let $\phi^{k}(x)$ be the $k$ layers of the $Euler$ $function$, then there exist $x>m$ such that $\phi^{m}(x)=1$. For $N={^{b}a}&ensp;(mod&ensp;x)$, if we find $b>l>m$ such that ${^{l-m}a}>x$, then $N$ is constant. 
 <br/>
-For example, $\phi^{11}(4423)=1$, ${^{5}2}>4423$, then for $b\geq{6}$, we have ${^{b}2}&ensp;(mod&ensp;4423)=2197$, and ${^{b}3}&ensp;(mod&ensp;4423)=2226$, therefore ${^{b}2}+{^{b}3}=2197+2226&ensp;(mod&ensp;4423)=0&ensp;(mod&ensp;4423)$, this solves all the case $p_n$ for $n\geq{6}$.  
+For example, $\phi^{11}(4423)=1$, ${^{5}2}>4423$, then for $b\geq{6}$, we have ${^{b}2}&ensp;(mod&ensp;4423)=2197$, and ${^{b}3}&ensp;(mod&ensp;4423)=2226$, therefore ${^{b}2}+{^{b}3}=2197+2226&ensp;(mod&ensp;4423)=0&ensp;(mod&ensp;4423)$, this solves the case for all $p_n$ where $n\geq{6}$.  
 
 The case for $p_5$ can be brute force solved as ${^{5}2}+{^{5}3}=20853622+13422765&ensp;(mod&ensp;34276387)=0&ensp;(mod&ensp;34276387)$.
 
