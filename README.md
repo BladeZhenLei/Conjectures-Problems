@@ -17,7 +17,7 @@ For $n>{4}$, we have $34276387$ divides $p_5$, and in general, $4423$ divides $p
 <strong> $Proof.$ </strong>
 <br/>
 A brief verification for $p_4$ can be shown as follow: $3^{3^{3^{3}}}={(3^{3^{20}})}^{2187}=2210105334066^{2187} \equiv 212195553150593 &ensp; (mod &ensp; 21219553216129),3^{3^{3^{3}}}+2^{2^{2^{2}}}=65536+21219553150593\equiv{0 &ensp;(mod&ensp; 21219553216129)}.$
-Let $\phi^{k}(n)$ be the $k$ layers of the $Euler$ function, then there exist $n>m$ such that $\phi^{m}(n)=1$. For $x={^{b}a}&ensp;(mod&ensp;n)$, if we find $b>l>m$ such that ${^{l-m}a}>n$, then $x$ is constant.
+Let $\phi^{k}(n)$ be the $k$ layers of the $Euler$ function, then there exist $n>m$ such that $\phi^{m}(n)=1$. For $x={^{b}a}&ensp;(mod&ensp;n)$, if we find $b>l>m$ such that ${^{l-m}a}>n$, then $x$ is constant. For example, we have $\phi^{11}(4423)=1$, ${^{5}2}>4423$, then ${^{b}2}&ensp;(mod&ensp;4423)=2197$, and ${^{b}3}&ensp;(mod&ensp;4423)=2226$, therefore ${^{b}2}+{^{b}3}=2197+2226&ensp;(mod&ensp;4423)=0&ensp;(mod&ensp;4423).$  
 <p/>
 Note: It is impossible to calculate $p_4$ itself, as it is several magnitudes bigger (3,638,334,640,024 digits) than the largest prime number that human ever computed (24,862,048 digits), the first result was obtained using trial division method through exhaustive cloud computing, it took more than a month to find the smallest divisor, which should be credited to the original author. The second incredible general case result was obtained by another author under the same post using Extended Euler's Theorem. See <a href="https://www.zhihu.com/question/512482114/answer/2319816820?utm_id=0"> Is 2^2^2^2+3^3^3^3 prime? (In Chinese) </a>.
 
